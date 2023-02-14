@@ -24,6 +24,6 @@ Terminal $:
 To setup your own discord bot, using discord developer, look here:
 https://www.ionos.com/digitalguide/server/know-how/creating-discord-bot/
 
-The end result is seen here:
+The end result is seen here (maybe needs a bit of time to load):
 
 ![](demo.gif)
