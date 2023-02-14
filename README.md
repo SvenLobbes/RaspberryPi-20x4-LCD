@@ -3,7 +3,7 @@
 This is a python program for accessing a LCD (20 x 4 Chars) over a raspberry pi, using a discord client bot. 
 
 This project was tested on a Raspberry Pi 3B V1.2 running Raspberry Pi OS.
-First of all you are wiring the outputs (GND, VCC, SDA, SCL) to the correct pinouts of the raspberry pi.
+First of all you wire the outputs (GND, VCC, SDA, SCL) to the correct pinouts of the raspberry pi.
 
 ![](pinouts.png)
 
