@@ -21,4 +21,7 @@ Now it is set up! We use python librarys like RPLCD and Discord to run the final
 Terminal $: 
   sudo pip install RPLCD discord
   
+To setup your own discord bot, using discord developer, look here:
+https://www.ionos.com/digitalguide/server/know-how/creating-discord-bot/
+
 The end result is seen here:
