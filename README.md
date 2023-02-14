@@ -25,3 +25,5 @@ To setup your own discord bot, using discord developer, look here:
 https://www.ionos.com/digitalguide/server/know-how/creating-discord-bot/
 
 The end result is seen here:
+
+![](demo.gif)
